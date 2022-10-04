@@ -3,7 +3,7 @@ spawn telnet 10.0.0.203
 expect "ogin:"
 send "root\r"
 expect "assword:"
-send "1\r"
+send "PASSWORD\r"
 expect "#"
 send "busybox reboot\r"
 expect "#"
