@@ -1,0 +1,1 @@
+'/home/me/Desktop/cam1reset.sh' && '/home/me/Desktop/cam2reset.sh' && '/home/me/Desktop/cam3reset.sh' && '/home/me/Desktop/cam4reset.sh' '&& /home/me/Desktop/cam5reset.sh' '/home/me/Desktop/cam6reset.sh' && '/home/me/Desktop/cam7reset.sh' && exit
