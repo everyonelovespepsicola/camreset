@@ -1,1 +1,1 @@
-'/home/me/Desktop/cam1reset.sh' && '/home/me/Desktop/cam2reset.sh' && '/home/me/Desktop/cam3reset.sh' && '/home/me/Desktop/cam4reset.sh' '&& /home/me/Desktop/cam5reset.sh' '/home/me/Desktop/cam6reset.sh' && '/home/me/Desktop/cam7reset.sh' && exit
+'/home/spy/camreset/cam1reset.sh' && '/home/spy/camreset/cam2reset.sh' && '/home/spy/camreset/cam3reset.sh' && '/home/spy/camreset/cam4reset.sh' && '/home/spy/camreset/cam5reset.sh' && '/home/spy/camreset/cam6reset.sh' && '/home/spy/camreset/cam7reset.sh' && 'exit'
