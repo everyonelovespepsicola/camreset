@@ -1,0 +1,8 @@
+#program
+C:\Windows\System32\cmd.exe
+
+#arguments
+/k start "" "C:\reset\camreset.bat"
+
+#startin
+C:\reset\
